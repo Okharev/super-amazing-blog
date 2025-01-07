@@ -7,6 +7,7 @@ import pagefind from "astro-pagefind";
 
 // https://astro.build/config
 export default defineConfig({
+  site: "https://pellanflorian.dev",
   integrations: [tailwind(), sitemap(), mdx(), pagefind()],
   markdown: {
     shikiConfig: {
