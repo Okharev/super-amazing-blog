@@ -8,7 +8,7 @@ repoURL: "https://github.com/markhorn-dev/astro-nano"
 
 ![Astro Nano](/astro-nano.png)
 
-Astro Nano is a static, minimalist, lightweight, lightning fast portfolio and blog theme.
+Astro Nanoooooo is a static, minimalist, lightweight, lightning fast portfolio and blog theme.
 
 Built with Astro, Tailwind and Typescript, and no frameworks.
 
